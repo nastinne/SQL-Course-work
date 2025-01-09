@@ -1,0 +1,889 @@
+username,order_date,status,total_amount,delivery_address,payment_method,order_detail_product_name,order_detail_quantity,order_detail_price
+heatherrice,2024-03-02 12:23:05.935616,Completed,1695.88,"332 Debra Landing
+Jamesberg, MA 65478",Credit Card,Cocoa Velvet,5,80.68
+sydneyfry,2024-06-18 18:09:08.265266,Completed,989.0,"9992 Wagner Ferry Apt. 542
+North Melissa, SC 04383",Credit Card,Jasmine Spice,7,107.14
+sydneyfry,2024-06-18 18:09:08.265266,Completed,989.0,"9992 Wagner Ferry Apt. 542
+North Melissa, SC 04383",Credit Card,Saffron Frost,5,476.91
+sydneyfry,2024-06-18 18:09:08.265266,Completed,989.0,"9992 Wagner Ferry Apt. 542
+North Melissa, SC 04383",Credit Card,Berry Harmony,9,371.36
+marc95,2024-09-04 10:39:34.104137,Completed,529.49,"4618 Evelyn Pine Apt. 352
+South Martinhaven, FM 08491",PayPal,Lavender Harmony,6,141.7
+marc95,2024-09-04 10:39:34.104137,Completed,529.49,"4618 Evelyn Pine Apt. 352
+South Martinhaven, FM 08491",PayPal,Persian Gold,1,15.52
+michele27,2024-01-18 04:01:11.387154,Completed,1061.61,"497 Benjamin Corners
+West John, CO 98572",PayPal,Lemon Harmony,7,408.7
+emmaedwards,2024-05-25 12:01:25.187183,Cancelled,339.89,"9893 Garza Grove
+Harrisonmouth, OR 81220",Credit Card,Midnight Mocha,6,207.9
+emmaedwards,2024-05-25 12:01:25.187183,Cancelled,339.89,"9893 Garza Grove
+Harrisonmouth, OR 81220",Credit Card,Honey Zest,1,223.02
+swansonjames,2024-02-29 14:54:43.492460,Completed,1817.84,"21086 Solis Parkways
+New Garyshire, FM 59245",Credit Card,Turmeric Bliss,5,298.02
+swansonjames,2024-02-29 14:54:43.492460,Completed,1817.84,"21086 Solis Parkways
+New Garyshire, FM 59245",Credit Card,Almond Harmony,10,316.28
+ggonzalez,2024-12-01 11:29:00.979971,Completed,525.94,"225 Carrie Haven
+West Pamela, UT 51127",Credit Card,Lavender Glow,7,141.27
+ggonzalez,2024-12-01 11:29:00.979971,Completed,525.94,"225 Carrie Haven
+West Pamela, UT 51127",Credit Card,Chai Nirvana,6,144.4
+vjackson,2024-07-10 21:03:35.946347,Completed,1800.41,"669 Aguilar Junctions
+New Brandyhaven, PR 81678",Credit Card,Cardamom Glow,10,191.01
+vjackson,2024-07-10 21:03:35.946347,Completed,1800.41,"669 Aguilar Junctions
+New Brandyhaven, PR 81678",Credit Card,Saffron Sun,9,294.13
+ryanmurphy,2024-09-12 16:00:35.763466,Cancelled,475.55,"0419 Cheyenne Junctions Suite 656
+Kellyberg, WV 77931",Credit Card,Mystic Pearl,7,263.26
+ryanmurphy,2024-09-12 16:00:35.763466,Cancelled,475.55,"0419 Cheyenne Junctions Suite 656
+Kellyberg, WV 77931",Credit Card,Golden Glow,10,40.45
+ryanmurphy,2024-09-12 16:00:35.763466,Cancelled,475.55,"0419 Cheyenne Junctions Suite 656
+Kellyberg, WV 77931",Credit Card,Turmeric Bliss,1,486.9
+ryanmurphy,2024-09-12 16:00:35.763466,Cancelled,475.55,"0419 Cheyenne Junctions Suite 656
+Kellyberg, WV 77931",Credit Card,Silk Jasmine,2,459.56
+jennifer29,2024-04-28 01:01:16.060404,Pending,638.55,"45580 William Avenue Suite 406
+West Sandraberg, CA 59788",PayPal,Smoky Whisper,6,31.76
+david15,2024-03-19 16:30:39.009526,Cancelled,1411.55,"7515 Lyons Falls Apt. 861
+Karenmouth, ND 95873",Bank Transfer,Velvet Spice,6,429.94
+david15,2024-03-19 16:30:39.009526,Cancelled,1411.55,"7515 Lyons Falls Apt. 861
+Karenmouth, ND 95873",Bank Transfer,Lemon Harmony,1,96.16
+david15,2024-03-19 16:30:39.009526,Cancelled,1411.55,"7515 Lyons Falls Apt. 861
+Karenmouth, ND 95873",Bank Transfer,Turmeric Harmony,2,347.41
+david15,2024-03-19 16:30:39.009526,Cancelled,1411.55,"7515 Lyons Falls Apt. 861
+Karenmouth, ND 95873",Bank Transfer,Choco Chai,5,134.98
+jessicahernandez,2024-12-22 19:04:40.060747,Completed,1258.46,"2425 Brandon Spur Suite 403
+Christopherville, AR 24867",Credit Card,Mint Whisper,2,346.44
+keithmason,2024-10-11 23:31:56.627963,Cancelled,752.84,"91899 Murphy Crescent Apt. 457
+Bensontown, AS 26466",Bank Transfer,Zesty Lemongrass,6,140.92
+keithmason,2024-10-11 23:31:56.627963,Cancelled,752.84,"91899 Murphy Crescent Apt. 457
+Bensontown, AS 26466",Bank Transfer,Cinnamon Glow,1,119.4
+keithmason,2024-10-11 23:31:56.627963,Cancelled,752.84,"91899 Murphy Crescent Apt. 457
+Bensontown, AS 26466",Bank Transfer,Berry Frost,10,314.93
+keithmason,2024-10-11 23:31:56.627963,Cancelled,752.84,"91899 Murphy Crescent Apt. 457
+Bensontown, AS 26466",Bank Transfer,Midnight Mocha,2,498.92
+keithmason,2024-10-11 23:31:56.627963,Cancelled,752.84,"91899 Murphy Crescent Apt. 457
+Bensontown, AS 26466",Bank Transfer,Smoky Whisper,4,42.67
+terri72,2024-03-27 03:59:53.714474,Cancelled,881.35,"68821 Rivera Circle Suite 095
+East Karen, NH 65983",Credit Card,Ruby Frost,9,22.63
+terri72,2024-03-27 03:59:53.714474,Cancelled,881.35,"68821 Rivera Circle Suite 095
+East Karen, NH 65983",Credit Card,Mystic Chai,8,10.75
+terri72,2024-03-27 03:59:53.714474,Cancelled,881.35,"68821 Rivera Circle Suite 095
+East Karen, NH 65983",Credit Card,Lemon Harmony,5,461.41
+terri72,2024-03-27 03:59:53.714474,Cancelled,881.35,"68821 Rivera Circle Suite 095
+East Karen, NH 65983",Credit Card,Honey Zest,2,31.61
+johnsonmichael,2024-03-15 05:28:30.885255,Completed,536.73,"2603 William Ports
+Watsonfurt, PR 40786",Credit Card,Persian Gold,4,57.64
+johnsonmichael,2024-03-15 05:28:30.885255,Completed,536.73,"2603 William Ports
+Watsonfurt, PR 40786",Credit Card,Spiced Velvet,9,245.86
+johnsonmichael,2024-03-15 05:28:30.885255,Completed,536.73,"2603 William Ports
+Watsonfurt, PR 40786",Credit Card,Choco Whisper,5,356.94
+johnsonmichael,2024-03-15 05:28:30.885255,Completed,536.73,"2603 William Ports
+Watsonfurt, PR 40786",Credit Card,Honeyberry Spice,10,59.84
+johnsonmichael,2024-03-15 05:28:30.885255,Completed,536.73,"2603 William Ports
+Watsonfurt, PR 40786",Credit Card,Lavender Glow,3,400.48
+mcdonaldjennifer,2024-09-25 08:15:00.509186,Pending,61.95,"5131 Young Ridge Suite 919
+North Sarahaven, CA 24821",PayPal,Mystic Amber,6,275.27
+mcdonaldjennifer,2024-09-25 08:15:00.509186,Pending,61.95,"5131 Young Ridge Suite 919
+North Sarahaven, CA 24821",PayPal,Mint Harmony,10,200.26
+mcdonaldjennifer,2024-09-25 08:15:00.509186,Pending,61.95,"5131 Young Ridge Suite 919
+North Sarahaven, CA 24821",PayPal,Wild Frost,7,447.82
+mcdonaldjennifer,2024-09-25 08:15:00.509186,Pending,61.95,"5131 Young Ridge Suite 919
+North Sarahaven, CA 24821",PayPal,Jasmine Spice,2,163.12
+ryanmurphy,2024-05-18 08:28:12.064161,Pending,1724.2,"USNS Lane
+FPO AP 87963",PayPal,Velvet Rose,7,354.85
+ryanmurphy,2024-05-18 08:28:12.064161,Pending,1724.2,"USNS Lane
+FPO AP 87963",PayPal,Sunset Glow,7,83.5
+ryanmurphy,2024-05-18 08:28:12.064161,Pending,1724.2,"USNS Lane
+FPO AP 87963",PayPal,Jasmine Serenity,1,280.61
+huertamichele,2024-06-19 17:53:52.091079,Pending,374.41,"243 Larson Stream Suite 473
+East Jasmine, KS 75121",PayPal,Mint Harmony,8,31.91
+karabarrett,2024-09-14 21:11:37.665533,Cancelled,1225.32,"USS Conrad
+FPO AA 57200",PayPal,Wild Frost,8,103.02
+karabarrett,2024-09-14 21:11:37.665533,Cancelled,1225.32,"USS Conrad
+FPO AA 57200",PayPal,Velvet Citrus,5,185.84
+karabarrett,2024-09-14 21:11:37.665533,Cancelled,1225.32,"USS Conrad
+FPO AA 57200",PayPal,Honey Gold,2,265.29
+karabarrett,2024-09-14 21:11:37.665533,Cancelled,1225.32,"USS Conrad
+FPO AA 57200",PayPal,Honey Spark,6,372.14
+karabarrett,2024-09-14 21:11:37.665533,Cancelled,1225.32,"USS Conrad
+FPO AA 57200",PayPal,Citrus Harmony,6,290.76
+brownperry,2024-04-08 11:13:07.158070,Pending,108.46,"1912 Graham Gateway Apt. 837
+Benderburgh, MP 21056",Credit Card,Zesty Lemongrass,4,359.3
+riveraalex,2024-03-10 18:33:09.947619,Cancelled,1160.53,"Midnight Berry 6034 Box 3172
+DPO AP 61898",PayPal,Honey Spark,5,214.94
+riveraalex,2024-03-10 18:33:09.947619,Cancelled,1160.53,"Midnight Berry 6034 Box 3172
+DPO AP 61898",PayPal,Sunset Frost,4,479.65
+fhernandez,2024-01-06 10:07:34.844613,Completed,541.69,"68505 Judy Corner
+Amandatown, DE 62365",PayPal,Golden Jasmine,7,273.65
+fhernandez,2024-01-06 10:07:34.844613,Completed,541.69,"68505 Judy Corner
+Amandatown, DE 62365",PayPal,Spiced Velvet,2,49.34
+fhernandez,2024-01-06 10:07:34.844613,Completed,541.69,"68505 Judy Corner
+Amandatown, DE 62365",PayPal,Arabica Ember,3,81.06
+kevincoleman,2024-04-30 23:27:09.762961,Completed,752.45,"2121 April Wells Apt. 272
+Hurleyport, WV 15629",PayPal,Mystic Citrus,2,484.15
+kevincoleman,2024-04-30 23:27:09.762961,Completed,752.45,"2121 April Wells Apt. 272
+Hurleyport, WV 15629",PayPal,Dragon Pearl,3,161.69
+kevincoleman,2024-04-30 23:27:09.762961,Completed,752.45,"2121 April Wells Apt. 272
+Hurleyport, WV 15629",PayPal,Cocoa Rooibos,5,196.31
+michael44,2024-10-20 13:47:34.361889,Pending,1362.64,"5986 Amy Avenue Suite 125
+Perezchester, NE 42382",Credit Card,Berry Breeze,10,93.07
+michael44,2024-10-20 13:47:34.361889,Pending,1362.64,"5986 Amy Avenue Suite 125
+Perezchester, NE 42382",Credit Card,Herbal Glow,8,217.58
+michael44,2024-10-20 13:47:34.361889,Pending,1362.64,"5986 Amy Avenue Suite 125
+Perezchester, NE 42382",Credit Card,Lavender Harmony,10,267.52
+michael44,2024-10-20 13:47:34.361889,Pending,1362.64,"5986 Amy Avenue Suite 125
+Perezchester, NE 42382",Credit Card,Smoky Clove,2,389.5
+brownperry,2024-03-09 04:41:26.333031,Completed,1248.79,"48124 Christina Tunnel Suite 870
+Port Michaelborough, MA 50402",Credit Card,Cinnamon Spice,8,422.06
+brownperry,2024-03-09 04:41:26.333031,Completed,1248.79,"48124 Christina Tunnel Suite 870
+Port Michaelborough, MA 50402",Credit Card,Almond Spice,6,381.42
+brownperry,2024-03-09 04:41:26.333031,Completed,1248.79,"48124 Christina Tunnel Suite 870
+Port Michaelborough, MA 50402",Credit Card,Turmeric Frost,7,372.63
+kimhughes,2024-05-26 09:15:02.015657,Completed,993.01,"615 Mathew Roads Apt. 079
+Brittanyshire, AZ 22401",Credit Card,Velvet Matcha,3,141.42
+kimhughes,2024-05-26 09:15:02.015657,Completed,993.01,"615 Mathew Roads Apt. 079
+Brittanyshire, AZ 22401",Credit Card,Ruby Frost,3,312.08
+kimhughes,2024-05-26 09:15:02.015657,Completed,993.01,"615 Mathew Roads Apt. 079
+Brittanyshire, AZ 22401",Credit Card,Lemon Glow,9,320.53
+kimhughes,2024-05-26 09:15:02.015657,Completed,993.01,"615 Mathew Roads Apt. 079
+Brittanyshire, AZ 22401",Credit Card,Mystic Frost,2,206.62
+ggonzalez,2024-09-04 03:59:28.384199,Cancelled,1340.61,"6463 Moody Forks Suite 002
+Fryton, NH 78096",PayPal,Mystic Ember,3,462.36
+ggonzalez,2024-09-04 03:59:28.384199,Cancelled,1340.61,"6463 Moody Forks Suite 002
+Fryton, NH 78096",PayPal,Smoky Clove,7,141.79
+ggonzalez,2024-09-04 03:59:28.384199,Cancelled,1340.61,"6463 Moody Forks Suite 002
+Fryton, NH 78096",PayPal,Midnight Mocha,1,47.55
+shahtina,2024-05-08 15:06:29.844358,Completed,1751.26,"71688 Casey Springs
+Jasonside, AK 94263",PayPal,Silk Assam,10,225.69
+shahtina,2024-05-08 15:06:29.844358,Completed,1751.26,"71688 Casey Springs
+Jasonside, AK 94263",PayPal,Vanilla Harvest,7,371.18
+shahtina,2024-05-08 15:06:29.844358,Completed,1751.26,"71688 Casey Springs
+Jasonside, AK 94263",PayPal,Smoky Ceylon,5,268.17
+andrewdavis,2024-09-29 12:59:21.700719,Pending,315.6,"2752 Frank Ridge Suite 715
+Kennethview, TX 06265",Bank Transfer,Herbal Frost,1,39.03
+andrewdavis,2024-09-29 12:59:21.700719,Pending,315.6,"2752 Frank Ridge Suite 715
+Kennethview, TX 06265",Bank Transfer,Mint Harmony,10,267.02
+keithmason,2024-10-24 01:35:07.104107,Pending,368.85,"21121 Yolanda Camp Apt. 379
+Marshallview, PR 42585",PayPal,Lavender Pearl,6,152.94
+keithmason,2024-10-24 01:35:07.104107,Pending,368.85,"21121 Yolanda Camp Apt. 379
+Marshallview, PR 42585",PayPal,Velvet Rose,6,168.19
+keithmason,2024-10-24 01:35:07.104107,Pending,368.85,"21121 Yolanda Camp Apt. 379
+Marshallview, PR 42585",PayPal,Vanilla Spark,1,256.59
+keithmason,2024-10-24 01:35:07.104107,Pending,368.85,"21121 Yolanda Camp Apt. 379
+Marshallview, PR 42585",PayPal,Mystic Amber,7,152.67
+smithjenna,2024-06-13 05:00:47.236565,Cancelled,1774.17,"9663 Elizabeth Island
+Wrighthaven, FM 15914",Credit Card,Wildberry Bliss,9,392.47
+smithjenna,2024-06-13 05:00:47.236565,Cancelled,1774.17,"9663 Elizabeth Island
+Wrighthaven, FM 15914",Credit Card,Ruby Rooibos,10,462.84
+smithjenna,2024-06-13 05:00:47.236565,Cancelled,1774.17,"9663 Elizabeth Island
+Wrighthaven, FM 15914",Credit Card,Cocoa Spice,9,455.73
+smithjenna,2024-06-13 05:00:47.236565,Cancelled,1774.17,"9663 Elizabeth Island
+Wrighthaven, FM 15914",Credit Card,Saffron Frost,3,455.52
+smithjenna,2024-06-13 05:00:47.236565,Cancelled,1774.17,"9663 Elizabeth Island
+Wrighthaven, FM 15914",Credit Card,Amber Chai,2,172.27
+karabarrett,2024-03-13 23:47:04.797656,Pending,1242.43,"311 Christian Forks
+Doyleshire, AK 98897",Bank Transfer,Darjeeling Dream,6,445.07
+karabarrett,2024-03-13 23:47:04.797656,Pending,1242.43,"311 Christian Forks
+Doyleshire, AK 98897",Bank Transfer,Lavender Breeze,6,115.89
+karabarrett,2024-03-13 23:47:04.797656,Pending,1242.43,"311 Christian Forks
+Doyleshire, AK 98897",Bank Transfer,Silk Harmony,1,448.3
+karabarrett,2024-03-13 23:47:04.797656,Pending,1242.43,"311 Christian Forks
+Doyleshire, AK 98897",Bank Transfer,Honey Gold,4,400.05
+karabarrett,2024-03-13 23:47:04.797656,Pending,1242.43,"311 Christian Forks
+Doyleshire, AK 98897",Bank Transfer,Mystic Pearl,7,126.43
+travisrojas,2024-08-02 06:40:20.843105,Pending,246.12,"71803 Hill Islands
+Youngtown, ID 54360",Bank Transfer,Sunset Glow,7,396.17
+travisrojas,2024-08-02 06:40:20.843105,Pending,246.12,"71803 Hill Islands
+Youngtown, ID 54360",Bank Transfer,Saffron Frost,2,361.8
+travisrojas,2024-08-02 06:40:20.843105,Pending,246.12,"71803 Hill Islands
+Youngtown, ID 54360",Bank Transfer,Jasmine Spice,7,235.7
+kenneth72,2024-10-14 10:52:54.440317,Pending,126.86,"062 Brooke Island
+Manuelport, GU 95082",Bank Transfer,Honeyberry Spice,2,202.42
+kenneth72,2024-10-14 10:52:54.440317,Pending,126.86,"062 Brooke Island
+Manuelport, GU 95082",Bank Transfer,Herbal Glow,7,117.11
+kenneth72,2024-10-14 10:52:54.440317,Pending,126.86,"062 Brooke Island
+Manuelport, GU 95082",Bank Transfer,Sakura Breeze,1,285.53
+kenneth72,2024-10-14 10:52:54.440317,Pending,126.86,"062 Brooke Island
+Manuelport, GU 95082",Bank Transfer,Golden Glow,6,402.1
+kenneth72,2024-10-14 10:52:54.440317,Pending,126.86,"062 Brooke Island
+Manuelport, GU 95082",Bank Transfer,Sunset Glow,1,350.61
+marc95,2024-07-14 19:42:21.102450,Cancelled,1949.26,"65744 Robert Roads
+Lake Dustin, AK 33878",Bank Transfer,Berry Harmony,7,309.41
+marc95,2024-07-14 19:42:21.102450,Cancelled,1949.26,"65744 Robert Roads
+Lake Dustin, AK 33878",Bank Transfer,Velvet Citrus Anise Glow,5,132.57
+marc95,2024-07-14 19:42:21.102450,Cancelled,1949.26,"65744 Robert Roads
+Lake Dustin, AK 33878",Bank Transfer,Berry Bliss,8,162.78
+marc95,2024-07-14 19:42:21.102450,Cancelled,1949.26,"65744 Robert Roads
+Lake Dustin, AK 33878",Bank Transfer,Ruby Hibiscus,3,463.15
+markhernandez,2024-05-27 20:11:34.754413,Cancelled,206.74,"52932 Patrick Underpass
+East Jordan, GA 37498",Bank Transfer,Lavender Breeze,7,367.33
+markhernandez,2024-05-27 20:11:34.754413,Cancelled,206.74,"52932 Patrick Underpass
+East Jordan, GA 37498",Bank Transfer,Golden Harmony,7,468.21
+markhernandez,2024-05-27 20:11:34.754413,Cancelled,206.74,"52932 Patrick Underpass
+East Jordan, GA 37498",Bank Transfer,Mystic Citrus,5,302.27
+markhernandez,2024-05-27 20:11:34.754413,Cancelled,206.74,"52932 Patrick Underpass
+East Jordan, GA 37498",Bank Transfer,Lemon Glow,10,342.06
+vjackson,2024-02-01 07:29:48.156688,Completed,903.77,"69436 Pamela Crest Apt. 018
+West Nicolemouth, RI 94698",Credit Card,Saffron Sun,1,255.68
+ryanmurphy,2024-03-05 07:52:01.578748,Cancelled,788.21,"821 Ebony Cliffs Apt. 574
+Stephanieton, PA 53519",Credit Card,Jasmine Spice,5,34.61
+ryanmurphy,2024-03-05 07:52:01.578748,Cancelled,788.21,"821 Ebony Cliffs Apt. 574
+Stephanieton, PA 53519",Credit Card,Arabica Ember,9,464.85
+ryanmurphy,2024-03-05 07:52:01.578748,Cancelled,788.21,"821 Ebony Cliffs Apt. 574
+Stephanieton, PA 53519",Credit Card,Midnight Mocha,1,346.89
+heatherrice,2024-05-02 08:27:38.574141,Completed,1781.82,"56552 Norton Bridge Suite 867
+Port Ashleychester, FM 91215",PayPal,Berry Breeze,4,97.46
+smithjenna,2024-01-23 17:17:13.348557,Cancelled,1628.42,"2489 Christopher Valley Apt. 570
+Bowmanview, OR 12590",PayPal,Honey Spice,5,359.22
+smithjenna,2024-01-23 17:17:13.348557,Cancelled,1628.42,"2489 Christopher Valley Apt. 570
+Bowmanview, OR 12590",PayPal,Golden Clove,1,218.63
+smithjenna,2024-01-23 17:17:13.348557,Cancelled,1628.42,"2489 Christopher Valley Apt. 570
+Bowmanview, OR 12590",PayPal,Choco Chai,4,242.52
+smithjenna,2024-01-23 17:17:13.348557,Cancelled,1628.42,"2489 Christopher Valley Apt. 570
+Bowmanview, OR 12590",PayPal,Jasmine Serenity,5,470.79
+john37,2024-06-03 14:45:13.605706,Cancelled,1501.52,"40265 Stacy Plains Suite 682
+North Karaview, MH 25177",Credit Card,Herbal Harmony,1,74.08
+john37,2024-06-03 14:45:13.605706,Cancelled,1501.52,"40265 Stacy Plains Suite 682
+North Karaview, MH 25177",Credit Card,Cocoa Frost,9,410.14
+john37,2024-06-03 14:45:13.605706,Cancelled,1501.52,"40265 Stacy Plains Suite 682
+North Karaview, MH 25177",Credit Card,Berry Harmony,6,160.46
+mcdonaldjennifer,2024-02-26 08:09:35.272961,Completed,1012.97,"144 Nicholas Springs
+Lake Shawnfurt, OR 10065",PayPal,Cocoa Serenade,4,44.06
+mcdonaldjennifer,2024-02-26 08:09:35.272961,Completed,1012.97,"144 Nicholas Springs
+Lake Shawnfurt, OR 10065",PayPal,Mystic Frost,3,121.45
+mcdonaldjennifer,2024-02-26 08:09:35.272961,Completed,1012.97,"144 Nicholas Springs
+Lake Shawnfurt, OR 10065",PayPal,Velvet Rose,9,221.86
+mcdonaldjennifer,2024-02-26 08:09:35.272961,Completed,1012.97,"144 Nicholas Springs
+Lake Shawnfurt, OR 10065",PayPal,Saffron Magic,7,375.41
+jessicahernandez,2024-01-01 20:37:22.992668,Pending,897.28,"015 Jennifer Fields
+Ellisland, CO 59978",PayPal,Mystic Citrus,6,259.5
+jessicahernandez,2024-01-01 20:37:22.992668,Pending,897.28,"015 Jennifer Fields
+Ellisland, CO 59978",PayPal,Silk Rose,10,447.36
+jessicahernandez,2024-01-01 20:37:22.992668,Pending,897.28,"015 Jennifer Fields
+Ellisland, CO 59978",PayPal,Velvet Harmony,2,430.01
+garrett22,2024-05-07 17:36:03.469885,Completed,807.44,"674 Cisneros Drive Suite 853
+West Lori, MT 18762",Bank Transfer,Cocoa Rooibos,3,272.77
+garrett22,2024-05-07 17:36:03.469885,Completed,807.44,"674 Cisneros Drive Suite 853
+West Lori, MT 18762",Bank Transfer,Honey Frost,5,221.56
+garrett22,2024-09-13 18:00:17.233806,Cancelled,623.83,"684 David Circle
+New Adam, MP 46818",Bank Transfer,Arabica Ember,2,122.33
+garrett22,2024-09-13 18:00:17.233806,Cancelled,623.83,"684 David Circle
+New Adam, MP 46818",Bank Transfer,Lemon Harmony,5,144.65
+garrett22,2024-09-13 18:00:17.233806,Cancelled,623.83,"684 David Circle
+New Adam, MP 46818",Bank Transfer,Spiced Maple,5,232.94
+garrett22,2024-09-13 18:00:17.233806,Cancelled,623.83,"684 David Circle
+New Adam, MP 46818",Bank Transfer,Dark Mocha,3,12.04
+stephanie81,2024-03-25 09:42:51.033396,Pending,1182.5,"475 Silva Summit Suite 020
+Port Marilyn, PA 81011",Credit Card,Cinnamon Glow,8,471.9
+sarahgrant,2024-06-23 13:14:10.919383,Completed,1791.17,"343 Nelson Way Apt. 183
+Kimberlyborough, NC 81867",PayPal,Midnight Berry,8,252.85
+sarahgrant,2024-06-23 13:14:10.919383,Completed,1791.17,"343 Nelson Way Apt. 183
+Kimberlyborough, NC 81867",PayPal,Golden Glow,9,146.75
+sarahgrant,2024-06-23 13:14:10.919383,Completed,1791.17,"343 Nelson Way Apt. 183
+Kimberlyborough, NC 81867",PayPal,Mint Majesty,8,227.58
+sarahgrant,2024-06-23 13:14:10.919383,Completed,1791.17,"343 Nelson Way Apt. 183
+Kimberlyborough, NC 81867",PayPal,Maple Spice,10,360.85
+sarahgrant,2024-06-23 13:14:10.919383,Completed,1791.17,"343 Nelson Way Apt. 183
+Kimberlyborough, NC 81867",PayPal,Saffron Sun,7,428.1
+marc16,2024-03-15 08:36:28.748958,Completed,816.64,"75173 Robert Field
+Port Garystad, ME 62659",PayPal,Wildberry Bliss,2,389.93
+marc16,2024-03-15 08:36:28.748958,Completed,816.64,"75173 Robert Field
+Port Garystad, ME 62659",PayPal,Honey Spark,9,289.5
+marc16,2024-03-15 08:36:28.748958,Completed,816.64,"75173 Robert Field
+Port Garystad, ME 62659",PayPal,Herbal Spice,3,212.31
+marc16,2024-03-15 08:36:28.748958,Completed,816.64,"75173 Robert Field
+Port Garystad, ME 62659",PayPal,Almond Chai,8,444.79
+dianamack,2024-04-18 04:59:03.284614,Pending,505.27,"1611 Linda Mews Suite 168
+Richardberg, TX 47180",Bank Transfer,Lavender Spice,9,174.84
+dianamack,2024-04-18 04:59:03.284614,Pending,505.27,"1611 Linda Mews Suite 168
+Richardberg, TX 47180",Bank Transfer,Saffron Sun,3,464.19
+esmith,2024-02-01 22:25:41.993882,Completed,736.74,"27829 Jason Plains
+Santanaborough, NY 46632",Credit Card,Lemon Jasmine,8,325.8
+esmith,2024-02-01 22:25:41.993882,Completed,736.74,"27829 Jason Plains
+Santanaborough, NY 46632",Credit Card,Cardamom Kiss,3,250.51
+esmith,2024-02-01 22:25:41.993882,Completed,736.74,"27829 Jason Plains
+Santanaborough, NY 46632",Credit Card,Cocoa Rooibos,6,487.67
+esmith,2024-02-01 22:25:41.993882,Completed,736.74,"27829 Jason Plains
+Santanaborough, NY 46632",Credit Card,Cocoa Harmony,7,353.96
+emmaedwards,2024-11-30 13:03:28.770241,Pending,1437.08,"799 Brown Plain
+Davidview, VT 70043",Credit Card,Lavender Frost,1,292.3
+gregoryedwards,2024-08-11 11:14:46.320141,Cancelled,289.56,"3713 Brown Turnpike Suite 222
+Joshuamouth, VI 25362",PayPal,Almond Spice,1,73.68
+gregoryedwards,2024-08-11 11:14:46.320141,Cancelled,289.56,"3713 Brown Turnpike Suite 222
+Joshuamouth, VI 25362",PayPal,Velvet Rose,5,298.39
+gregoryedwards,2024-08-11 11:14:46.320141,Cancelled,289.56,"3713 Brown Turnpike Suite 222
+Joshuamouth, VI 25362",PayPal,Mystic Matcha,2,41.74
+cody70,2024-03-25 22:38:52.552406,Completed,1564.91,"USS Hickman
+FPO AP 21656",Bank Transfer,Honey Gold,6,251.53
+cody70,2024-03-25 22:38:52.552406,Completed,1564.91,"USS Hickman
+FPO AP 21656",Bank Transfer,Cinnamon Serenade,6,424.34
+cody70,2024-03-25 22:38:52.552406,Completed,1564.91,"USS Hickman
+FPO AP 21656",Bank Transfer,Berry Glow,2,362.92
+cody70,2024-03-25 22:38:52.552406,Completed,1564.91,"USS Hickman
+FPO AP 21656",Bank Transfer,Mint Frost,5,392.15
+cody70,2024-03-25 22:38:52.552406,Completed,1564.91,"USS Hickman
+FPO AP 21656",Bank Transfer,Smoky Jasmine,2,465.25
+qmoran,2024-02-23 00:42:25.349491,Pending,1418.95,"5740 Darjeeling Dream Loop Apt. 707
+West James, ME 53534",Credit Card,Turmeric Whisper,7,384.94
+qmoran,2024-02-23 00:42:25.349491,Pending,1418.95,"5740 Darjeeling Dream Loop Apt. 707
+West James, ME 53534",Credit Card,Ginger Harmony,7,340.76
+qmoran,2024-02-23 00:42:25.349491,Pending,1418.95,"5740 Darjeeling Dream Loop Apt. 707
+West James, ME 53534",Credit Card,Cocoa Velvet,6,421.71
+qmoran,2024-02-23 00:42:25.349491,Pending,1418.95,"5740 Darjeeling Dream Loop Apt. 707
+West James, ME 53534",Credit Card,Choco Cinnamon,10,280.58
+owendaniel,2024-07-22 06:04:46.434079,Completed,1034.44,"Midnight Berry 6920 Box 2197
+DPO AA 92675",Bank Transfer,Jasmine Ember,2,35.94
+heatherrice,2024-08-05 01:47:29.750649,Cancelled,1803.88,"10462 Ronald Wells
+West Gregory, DE 51115",Bank Transfer,Choco Whisper,2,47.48
+heatherrice,2024-08-05 01:47:29.750649,Cancelled,1803.88,"10462 Ronald Wells
+West Gregory, DE 51115",Bank Transfer,Jasmine Spice,4,326.83
+heatherrice,2024-08-05 01:47:29.750649,Cancelled,1803.88,"10462 Ronald Wells
+West Gregory, DE 51115",Bank Transfer,Mint Harmony,7,200.3
+heatherrice,2024-08-05 01:47:29.750649,Cancelled,1803.88,"10462 Ronald Wells
+West Gregory, DE 51115",Bank Transfer,Mystic Ember,3,220.72
+heatherrice,2024-08-05 01:47:29.750649,Cancelled,1803.88,"10462 Ronald Wells
+West Gregory, DE 51115",Bank Transfer,Berry Frost,8,36.12
+riveraalex,2024-07-05 01:37:08.621368,Completed,744.7,"2073 Kim Estate
+North Susanhaven, ME 78321",PayPal,Turmeric Frost,8,115.57
+riveraalex,2024-07-05 01:37:08.621368,Completed,744.7,"2073 Kim Estate
+North Susanhaven, ME 78321",PayPal,Almond Harmony,5,304.76
+riveraalex,2024-07-05 01:37:08.621368,Completed,744.7,"2073 Kim Estate
+North Susanhaven, ME 78321",PayPal,Honeyberry Spice,8,140.93
+mcdonaldjennifer,2024-12-11 10:23:57.804983,Completed,324.78,"PSC 4917, Box 5185
+APO AA 75467",Credit Card,Herbal Frost,10,451.39
+pfitzgerald,2024-09-24 03:33:05.097052,Cancelled,1289.69,"50649 Wanda Greens Apt. 702
+Nelsonhaven, VT 80881",PayPal,Almond Glow,4,178.23
+justin48,2024-10-03 13:06:41.002663,Completed,945.41,"6231 Andrea Key
+Melindatown, WV 24287",Bank Transfer,Lemon Harmony,5,170.49
+justin48,2024-10-03 13:06:41.002663,Completed,945.41,"6231 Andrea Key
+Melindatown, WV 24287",Bank Transfer,Golden Spice,2,381.74
+terri72,2024-12-17 13:34:25.667781,Pending,621.59,"0656 Travis Landing
+Brownstad, AK 93217",Credit Card,Zesty Spice,9,279.55
+terri72,2024-12-17 13:34:25.667781,Pending,621.59,"0656 Travis Landing
+Brownstad, AK 93217",Credit Card,Smoky Whisper,4,189.44
+terri72,2024-12-17 13:34:25.667781,Pending,621.59,"0656 Travis Landing
+Brownstad, AK 93217",Credit Card,Jasmine Ember,10,115.27
+terri72,2024-12-17 13:34:25.667781,Pending,621.59,"0656 Travis Landing
+Brownstad, AK 93217",Credit Card,Mystic Amber,4,343.79
+terri72,2024-12-17 13:34:25.667781,Pending,621.59,"0656 Travis Landing
+Brownstad, AK 93217",Credit Card,Ruby Rooibos,5,342.42
+currycaleb,2024-11-19 19:07:57.130705,Cancelled,419.14,"63056 Allen Terrace
+Joshuafort, MP 66361",PayPal,Cardamom Glow,8,16.91
+currycaleb,2024-11-19 19:07:57.130705,Cancelled,419.14,"63056 Allen Terrace
+Joshuafort, MP 66361",PayPal,Sakura Breeze,9,261.84
+melissaryan,2024-07-30 23:45:44.669564,Cancelled,1521.47,"642 Garrett Roads Suite 372
+Kristinville, TX 21541",Credit Card,Silk Rose,5,436.75
+melissaryan,2024-07-30 23:45:44.669564,Cancelled,1521.47,"642 Garrett Roads Suite 372
+Kristinville, TX 21541",Credit Card,Ruby Frost,5,279.11
+steve04,2024-02-29 02:24:50.455705,Pending,1967.99,"2219 Sonya Cliff Suite 064
+North Curtis, PW 22320",PayPal,Mystic Chai,2,260.35
+steve04,2024-02-29 02:24:50.455705,Pending,1967.99,"2219 Sonya Cliff Suite 064
+North Curtis, PW 22320",PayPal,Herbal Ember,2,432.9
+jasonking,2024-10-26 09:04:48.437159,Cancelled,1727.19,"69277 Hernandez Estate Apt. 675
+Ryantown, CO 67476",PayPal,Berry Harmony,9,47.47
+jasonking,2024-10-26 09:04:48.437159,Cancelled,1727.19,"69277 Hernandez Estate Apt. 675
+Ryantown, CO 67476",PayPal,Turmeric Frost,7,19.5
+jasonking,2024-10-26 09:04:48.437159,Cancelled,1727.19,"69277 Hernandez Estate Apt. 675
+Ryantown, CO 67476",PayPal,Turmeric Frost,8,141.05
+jasonking,2024-10-26 09:04:48.437159,Cancelled,1727.19,"69277 Hernandez Estate Apt. 675
+Ryantown, CO 67476",PayPal,Lemon Frost,9,201.59
+marc16,2024-05-11 21:32:03.309053,Completed,652.29,"9600 Mitchell Course
+Kaitlinton, MO 66783",PayPal,Berry Glow,3,205.83
+marc16,2024-05-11 21:32:03.309053,Completed,652.29,"9600 Mitchell Course
+Kaitlinton, MO 66783",PayPal,Herbal Harmony,3,340.86
+marc16,2024-05-11 21:32:03.309053,Completed,652.29,"9600 Mitchell Course
+Kaitlinton, MO 66783",PayPal,Berry Bliss,5,249.89
+marc16,2024-05-11 21:32:03.309053,Completed,652.29,"9600 Mitchell Course
+Kaitlinton, MO 66783",PayPal,Almond Harmony,5,321.11
+baldwinwayne,2024-12-20 09:15:50.300462,Completed,475.93,"USNV Silva
+FPO AA 53673",Bank Transfer,Almond Bliss,3,448.8
+baldwinwayne,2024-12-20 09:15:50.300462,Completed,475.93,"USNV Silva
+FPO AA 53673",Bank Transfer,Cocoa Velvet,1,364.57
+baldwinwayne,2024-12-20 09:15:50.300462,Completed,475.93,"USNV Silva
+FPO AA 53673",Bank Transfer,Wild Jasmine,2,351.45
+bishopkeith,2024-08-01 19:50:07.598876,Cancelled,116.77,"Midnight Berry 7934 Box 3898
+DPO AA 72909",Bank Transfer,Cardamom Bliss,3,173.83
+bishopkeith,2024-08-01 19:50:07.598876,Cancelled,116.77,"Midnight Berry 7934 Box 3898
+DPO AA 72909",Bank Transfer,Turmeric Frost,4,234.73
+bishopkeith,2024-08-01 19:50:07.598876,Cancelled,116.77,"Midnight Berry 7934 Box 3898
+DPO AA 72909",Bank Transfer,Cocoa Gold,7,89.01
+bishopkeith,2024-08-01 19:50:07.598876,Cancelled,116.77,"Midnight Berry 7934 Box 3898
+DPO AA 72909",Bank Transfer,Vanilla Spark,8,143.33
+elaine16,2024-05-16 18:39:09.401993,Completed,715.07,"USS Morgan
+FPO AA 52833",Bank Transfer,Midnight Berry,8,107.06
+elaine16,2024-05-16 18:39:09.401993,Completed,715.07,"USS Morgan
+FPO AA 52833",Bank Transfer,Silk Jasmine,2,104.97
+elaine16,2024-05-16 18:39:09.401993,Completed,715.07,"USS Morgan
+FPO AA 52833",Bank Transfer,Golden Rooibos,2,101.31
+elaine16,2024-05-16 18:39:09.401993,Completed,715.07,"USS Morgan
+FPO AA 52833",Bank Transfer,Spiced Velvet,8,487.93
+kgregory,2024-11-06 16:18:31.695995,Cancelled,1184.23,"959 Cameron Ruby Rooibos Suite 851
+Davisport, MH 22175",PayPal,Mystic Ember,9,140.38
+kgregory,2024-11-06 16:18:31.695995,Cancelled,1184.23,"959 Cameron Ruby Rooibos Suite 851
+Davisport, MH 22175",PayPal,Cardamom Frost,6,103.99
+kgregory,2024-11-06 16:18:31.695995,Cancelled,1184.23,"959 Cameron Ruby Rooibos Suite 851
+Davisport, MH 22175",PayPal,Herbal Frost,3,458.99
+mhudson,2024-03-19 14:38:13.005548,Cancelled,375.89,"047 Jennifer Plains Apt. 071
+Richardview, NY 49015",PayPal,Silk Assam,8,410.79
+michael61,2024-04-11 01:54:30.231576,Pending,1736.8,"8549 Villa Streets Suite 113
+Lake Gloria, GU 48641",Bank Transfer,Maple Spice,1,144.42
+michael61,2024-04-11 01:54:30.231576,Pending,1736.8,"8549 Villa Streets Suite 113
+Lake Gloria, GU 48641",Bank Transfer,Silk Rose,6,299.08
+michael61,2024-04-11 01:54:30.231576,Pending,1736.8,"8549 Villa Streets Suite 113
+Lake Gloria, GU 48641",Bank Transfer,Lemon Glow,5,281.73
+michael61,2024-04-11 01:54:30.231576,Pending,1736.8,"8549 Villa Streets Suite 113
+Lake Gloria, GU 48641",Bank Transfer,Cocoa Rooibos,8,457.2
+mprice,2024-08-06 12:11:16.892416,Cancelled,1933.12,"30461 Andersen Cliffs
+Kristenborough, WY 93885",Credit Card,Himalayan Gold,9,136.84
+mprice,2024-08-06 12:11:16.892416,Cancelled,1933.12,"30461 Andersen Cliffs
+Kristenborough, WY 93885",Credit Card,Cinnamon Spark,10,395.61
+mprice,2024-08-06 12:11:16.892416,Cancelled,1933.12,"30461 Andersen Cliffs
+Kristenborough, WY 93885",Credit Card,Honey Spark,7,440.6
+mprice,2024-08-06 12:11:16.892416,Cancelled,1933.12,"30461 Andersen Cliffs
+Kristenborough, WY 93885",Credit Card,Golden Spice,5,240.63
+vjackson,2024-09-08 14:43:57.841103,Completed,1957.84,"68042 Charles Islands Apt. 048
+Farmerberg, SC 38031",PayPal,Velvet Rose,1,153.1
+vjackson,2024-09-08 14:43:57.841103,Completed,1957.84,"68042 Charles Islands Apt. 048
+Farmerberg, SC 38031",PayPal,Chai Nirvana,5,180.03
+vjackson,2024-09-08 14:43:57.841103,Completed,1957.84,"68042 Charles Islands Apt. 048
+Farmerberg, SC 38031",PayPal,Smoky Ceylon,9,444.23
+vjackson,2024-09-08 14:43:57.841103,Completed,1957.84,"68042 Charles Islands Apt. 048
+Farmerberg, SC 38031",PayPal,Turmeric Harmony,6,125.79
+vjackson,2024-09-08 14:43:57.841103,Completed,1957.84,"68042 Charles Islands Apt. 048
+Farmerberg, SC 38031",PayPal,Spiced Apple,2,165.73
+elaine16,2024-05-11 06:53:22.934826,Cancelled,177.28,"28490 Evans Valley
+New Cynthia, LA 47544",PayPal,Cocoa Rooibos,7,238.41
+elaine16,2024-05-11 06:53:22.934826,Cancelled,177.28,"28490 Evans Valley
+New Cynthia, LA 47544",PayPal,Cardamom Bliss,10,55.63
+elaine16,2024-05-11 06:53:22.934826,Cancelled,177.28,"28490 Evans Valley
+New Cynthia, LA 47544",PayPal,Almond Whisper,10,276.3
+elaine16,2024-05-11 06:53:22.934826,Cancelled,177.28,"28490 Evans Valley
+New Cynthia, LA 47544",PayPal,Zesty Orange,8,107.32
+elaine16,2024-05-11 06:53:22.934826,Cancelled,177.28,"28490 Evans Valley
+New Cynthia, LA 47544",PayPal,Cardamom Frost,7,175.21
+heatherrice,2024-01-13 17:12:59.100390,Pending,1884.11,"91154 Chen Streets
+Conleyfurt, IA 34198",Bank Transfer,Wild Glow,6,259.9
+heatherrice,2024-01-13 17:12:59.100390,Pending,1884.11,"91154 Chen Streets
+Conleyfurt, IA 34198",Bank Transfer,Maple Spice,9,102.33
+elaine16,2024-09-05 16:34:44.492273,Pending,1880.94,"28653 Turner Streets
+New Jonathanhaven, PW 96950",PayPal,Turmeric Frost,4,340.75
+elaine16,2024-09-05 16:34:44.492273,Pending,1880.94,"28653 Turner Streets
+New Jonathanhaven, PW 96950",PayPal,Arabica Ember,2,124.86
+fhernandez,2024-02-19 01:43:10.831568,Completed,1369.95,"58806 Steven Ferry
+East Leonard, ME 49096",Bank Transfer,Lavender Breeze,1,436.84
+fhernandez,2024-02-19 01:43:10.831568,Completed,1369.95,"58806 Steven Ferry
+East Leonard, ME 49096",Bank Transfer,Sunset Rose,4,127.08
+fhernandez,2024-02-19 01:43:10.831568,Completed,1369.95,"58806 Steven Ferry
+East Leonard, ME 49096",Bank Transfer,Honey Citrus,10,136.93
+kimhughes,2024-01-01 12:11:59.037241,Completed,1777.56,"46821 Hawkins Mountains
+Julieview, KS 51192",PayPal,Smoky Ember Rose,6,496.36
+skinnerdaniel,2024-12-22 02:39:29.640087,Pending,1027.02,"6610 Shawn Village
+Howellmouth, VI 53520",PayPal,Midnight Mocha,3,9.05
+kgregory,2024-11-06 21:21:11.707497,Completed,554.06,"170 Autumn Locks Suite 615
+Scotthaven, WI 64248",PayPal,Almond Glow,7,479.38
+sarahgrant,2024-11-24 04:11:38.068783,Pending,85.11,"17953 Cox Streets
+North David, OR 51904",Bank Transfer,Ruby Frost,4,439.2
+sarahgrant,2024-11-24 04:11:38.068783,Pending,85.11,"17953 Cox Streets
+North David, OR 51904",Bank Transfer,Spiced Velvet,3,476.62
+sarahgrant,2024-11-24 04:11:38.068783,Pending,85.11,"17953 Cox Streets
+North David, OR 51904",Bank Transfer,Ruby Frost,3,311.41
+sarahgrant,2024-11-24 04:11:38.068783,Pending,85.11,"17953 Cox Streets
+North David, OR 51904",Bank Transfer,Smoky Ember,9,120.2
+terri72,2024-07-21 04:22:42.385205,Pending,1772.13,"496 Melvin Dale Suite 055
+West Shannon, AS 57687",Bank Transfer,Golden Jasmine,7,16.96
+terri72,2024-07-21 04:22:42.385205,Pending,1772.13,"496 Melvin Dale Suite 055
+West Shannon, AS 57687",Bank Transfer,Golden Matcha,3,198.26
+terri72,2024-07-21 04:22:42.385205,Pending,1772.13,"496 Melvin Dale Suite 055
+West Shannon, AS 57687",Bank Transfer,Wild Glow,2,232.93
+terri72,2024-07-21 04:22:42.385205,Pending,1772.13,"496 Melvin Dale Suite 055
+West Shannon, AS 57687",Bank Transfer,Mint Majesty,9,38.19
+terri72,2024-07-21 04:22:42.385205,Pending,1772.13,"496 Melvin Dale Suite 055
+West Shannon, AS 57687",Bank Transfer,Almond Gold,7,389.36
+walkercynthia,2024-08-21 01:06:28.308442,Completed,1137.88,"262 Timothy Lights
+South Christyview, AS 37252",PayPal,Ruby Glow,2,428.54
+walkercynthia,2024-08-21 01:06:28.308442,Completed,1137.88,"262 Timothy Lights
+South Christyview, AS 37252",PayPal,Ginger Glow,3,24.85
+walkercynthia,2024-08-21 01:06:28.308442,Completed,1137.88,"262 Timothy Lights
+South Christyview, AS 37252",PayPal,Himalayan Gold,8,219.67
+walkercynthia,2024-08-21 01:06:28.308442,Completed,1137.88,"262 Timothy Lights
+South Christyview, AS 37252",PayPal,Herbal Frost,4,179.7
+skinnerdaniel,2024-11-17 08:19:42.160255,Cancelled,223.25,"Midnight Berry 4954 Box 3261
+DPO AE 30687",PayPal,Lemon Harmony,10,32.26
+skinnerdaniel,2024-11-17 08:19:42.160255,Cancelled,223.25,"Midnight Berry 4954 Box 3261
+DPO AE 30687",PayPal,Saffron Spark,7,93.2
+skinnerdaniel,2024-11-17 08:19:42.160255,Cancelled,223.25,"Midnight Berry 4954 Box 3261
+DPO AE 30687",PayPal,Saffron Magic,8,418.32
+skinnerdaniel,2024-11-17 08:19:42.160255,Cancelled,223.25,"Midnight Berry 4954 Box 3261
+DPO AE 30687",PayPal,Wildberry Bliss,10,233.24
+skinnerdaniel,2024-11-17 08:19:42.160255,Cancelled,223.25,"Midnight Berry 4954 Box 3261
+DPO AE 30687",PayPal,Turmeric Frost,4,15.5
+jessicahernandez,2024-03-30 00:23:18.127196,Cancelled,1627.36,"4090 Mckee Junction
+Zacharyside, KS 04946",Credit Card,Cocoa Spice,4,302.69
+wbarajas,2024-08-25 08:43:30.897459,Pending,317.22,"582 Marcus Squares Suite 862
+Jamesfort, FL 64479",Bank Transfer,Turmeric Whisper,10,162.54
+wbarajas,2024-08-25 08:43:30.897459,Pending,317.22,"582 Marcus Squares Suite 862
+Jamesfort, FL 64479",Bank Transfer,Golden Matcha,1,290.01
+wbarajas,2024-08-25 08:43:30.897459,Pending,317.22,"582 Marcus Squares Suite 862
+Jamesfort, FL 64479",Bank Transfer,Cocoa Velvet,8,283.77
+wbarajas,2024-08-25 08:43:30.897459,Pending,317.22,"582 Marcus Squares Suite 862
+Jamesfort, FL 64479",Bank Transfer,Choco Chai,3,342.8
+wbarajas,2024-08-25 08:43:30.897459,Pending,317.22,"582 Marcus Squares Suite 862
+Jamesfort, FL 64479",Bank Transfer,Wild Zest,7,98.68
+brandonlewis,2024-11-16 23:07:57.901067,Completed,403.57,"198 Mullins Ramp
+West Loriside, WA 69578",Credit Card,Cocoa Glow,7,254.92
+gregoryedwards,2024-09-21 04:50:35.085426,Pending,1692.79,"141 Scott Heights Suite 973
+Lake Frederickmouth, AK 91748",PayPal,Ginger Spice,4,147.5
+gregoryedwards,2024-09-21 04:50:35.085426,Pending,1692.79,"141 Scott Heights Suite 973
+Lake Frederickmouth, AK 91748",PayPal,Mint Frost,9,360.54
+gregoryedwards,2024-09-21 04:50:35.085426,Pending,1692.79,"141 Scott Heights Suite 973
+Lake Frederickmouth, AK 91748",PayPal,Velvet Jasmine,2,249.36
+emmaedwards,2024-04-25 02:22:31.885726,Completed,936.19,"696 Flowers Trail
+Lake Michellehaven, AS 09446",Bank Transfer,Honey Spark,9,243.71
+lauren64,2024-01-03 13:41:27.009174,Pending,507.36,"316 Amanda Mountains Suite 925
+Brianfort, AK 88256",Bank Transfer,Golden Glow,5,458.72
+lauren64,2024-01-03 13:41:27.009174,Pending,507.36,"316 Amanda Mountains Suite 925
+Brianfort, AK 88256",Bank Transfer,Tropical Zest,6,148.07
+lauren64,2024-01-03 13:41:27.009174,Pending,507.36,"316 Amanda Mountains Suite 925
+Brianfort, AK 88256",Bank Transfer,Himalayan Gold,4,45.02
+lauren64,2024-01-03 13:41:27.009174,Pending,507.36,"316 Amanda Mountains Suite 925
+Brianfort, AK 88256",Bank Transfer,Wild Spice,3,419.9
+vjackson,2024-07-21 19:39:57.881814,Completed,1173.49,"5879 Lisa Trail
+Smithfort, NM 86354",PayPal,Lavender Bliss,4,493.62
+vjackson,2024-07-21 19:39:57.881814,Completed,1173.49,"5879 Lisa Trail
+Smithfort, NM 86354",PayPal,Wild Hibiscus,10,239.71
+vjackson,2024-07-21 19:39:57.881814,Completed,1173.49,"5879 Lisa Trail
+Smithfort, NM 86354",PayPal,Almond Chai,5,116.72
+vjackson,2024-07-21 19:39:57.881814,Completed,1173.49,"5879 Lisa Trail
+Smithfort, NM 86354",PayPal,Turmeric Sunset,2,490.05
+vjackson,2024-07-21 19:39:57.881814,Completed,1173.49,"5879 Lisa Trail
+Smithfort, NM 86354",PayPal,Golden Rooibos,2,210.0
+justin48,2024-05-02 02:09:41.781427,Completed,1307.61,"4324 Hunter Ridge
+Lake David, MT 77942",Credit Card,Chai Nirvana,10,60.11
+justin48,2024-05-02 02:09:41.781427,Completed,1307.61,"4324 Hunter Ridge
+Lake David, MT 77942",Credit Card,Golden Rooibos,1,11.35
+justin48,2024-05-02 02:09:41.781427,Completed,1307.61,"4324 Hunter Ridge
+Lake David, MT 77942",Credit Card,Cinnamon Spark,5,280.8
+justin48,2024-05-02 02:09:41.781427,Completed,1307.61,"4324 Hunter Ridge
+Lake David, MT 77942",Credit Card,Honey Jasmine,6,171.44
+john37,2024-04-16 18:25:52.952962,Pending,280.12,"9878 Valdez Lights
+East Gregory, OK 83766",Credit Card,Midnight Mocha,3,418.29
+pfitzgerald,2024-08-21 22:24:52.344990,Completed,1614.62,"2847 Elliott Square Suite 579
+Johnstad, MA 97218",PayPal,Mint Harmony,7,350.42
+pfitzgerald,2024-08-21 22:24:52.344990,Completed,1614.62,"2847 Elliott Square Suite 579
+Johnstad, MA 97218",PayPal,Mint Whisper,4,169.87
+rebekahsanders,2024-11-13 18:22:03.778333,Pending,1472.69,"17283 Leah Locks
+West Cindy, IL 77491",Bank Transfer,Mystic Citrus,5,357.48
+rebekahsanders,2024-11-13 18:22:03.778333,Pending,1472.69,"17283 Leah Locks
+West Cindy, IL 77491",Bank Transfer,Spiced Amber,5,27.44
+rebekahsanders,2024-11-13 18:22:03.778333,Pending,1472.69,"17283 Leah Locks
+West Cindy, IL 77491",Bank Transfer,Mint Frost,10,373.42
+rebekahsanders,2024-11-13 18:22:03.778333,Pending,1472.69,"17283 Leah Locks
+West Cindy, IL 77491",Bank Transfer,Mystic Frost,5,417.65
+rebekahsanders,2024-11-13 18:22:03.778333,Pending,1472.69,"17283 Leah Locks
+West Cindy, IL 77491",Bank Transfer,Zesty Lemongrass,10,244.57
+christopher63,2024-02-26 18:58:15.599404,Cancelled,777.69,"PSC 9935, Box 8154
+APO AA 51930",Bank Transfer,Almond Chai,3,215.27
+christopher63,2024-02-26 18:58:15.599404,Cancelled,777.69,"PSC 9935, Box 8154
+APO AA 51930",Bank Transfer,Cinnamon Whisper,9,343.4
+christopher63,2024-02-26 18:58:15.599404,Cancelled,777.69,"PSC 9935, Box 8154
+APO AA 51930",Bank Transfer,Midnight Mocha,5,181.56
+christopher63,2024-02-26 18:58:15.599404,Cancelled,777.69,"PSC 9935, Box 8154
+APO AA 51930",Bank Transfer,Smoky Ceylon,7,198.66
+christopher63,2024-02-26 18:58:15.599404,Cancelled,777.69,"PSC 9935, Box 8154
+APO AA 51930",Bank Transfer,Choco Whisper,8,235.38
+brian90,2024-01-15 15:32:21.380978,Pending,1812.79,"Midnight Berry 4983 Box 7621
+DPO AA 41862",Bank Transfer,Jasmine Gold,2,188.39
+brian90,2024-01-15 15:32:21.380978,Pending,1812.79,"Midnight Berry 4983 Box 7621
+DPO AA 41862",Bank Transfer,Midnight Mocha,10,264.88
+brian90,2024-01-15 15:32:21.380978,Pending,1812.79,"Midnight Berry 4983 Box 7621
+DPO AA 41862",Bank Transfer,Cinnamon Whisper,10,32.71
+brian90,2024-01-15 15:32:21.380978,Pending,1812.79,"Midnight Berry 4983 Box 7621
+DPO AA 41862",Bank Transfer,Almond Blossom,3,429.95
+marc95,2024-02-11 10:52:43.065750,Cancelled,1164.32,"394 Brian Courts Suite 264
+Joelbury, MH 26513",PayPal,Velvet Vanilla,9,467.03
+marc95,2024-02-11 10:52:43.065750,Cancelled,1164.32,"394 Brian Courts Suite 264
+Joelbury, MH 26513",PayPal,Mocha Blossom,3,281.34
+marc95,2024-02-11 10:52:43.065750,Cancelled,1164.32,"394 Brian Courts Suite 264
+Joelbury, MH 26513",PayPal,Lavender Breeze,9,151.99
+terri72,2024-06-29 17:42:27.926640,Cancelled,1446.99,"USS Ware
+FPO AP 38100",Credit Card,Lemon Glow,10,210.65
+terri72,2024-06-29 17:42:27.926640,Cancelled,1446.99,"USS Ware
+FPO AP 38100",Credit Card,Silk Frost,5,497.17
+terri72,2024-06-29 17:42:27.926640,Cancelled,1446.99,"USS Ware
+FPO AP 38100",Credit Card,Honey Citrus,1,8.52
+stephanie81,2024-11-27 23:49:24.147432,Pending,1761.06,"368 Stein Mall Suite 287
+North Michael, IA 59106",PayPal,Golden Frost,8,336.61
+stephanie81,2024-11-27 23:49:24.147432,Pending,1761.06,"368 Stein Mall Suite 287
+North Michael, IA 59106",PayPal,Spiced Velvet,2,448.55
+melissaryan,2024-12-03 19:27:17.308551,Completed,1244.79,"2604 Kirk Groves Suite 163
+Figueroaport, IA 47498",Credit Card,Velvet Harmony,3,431.65
+melissaryan,2024-12-03 19:27:17.308551,Completed,1244.79,"2604 Kirk Groves Suite 163
+Figueroaport, IA 47498",Credit Card,Sunset Rose,2,132.67
+melissaryan,2024-12-03 19:27:17.308551,Completed,1244.79,"2604 Kirk Groves Suite 163
+Figueroaport, IA 47498",Credit Card,Lavender Frost,10,368.86
+marc95,2024-07-06 23:39:23.535512,Completed,1153.88,"4938 Baldwin Harbor
+East Ronald, TN 31990",PayPal,Almond Chai,5,458.49
+david15,2024-01-28 11:09:19.398041,Completed,1805.68,"10330 Anderson Stream Suite 811
+North Christine, PA 07256",Bank Transfer,Sunset Jasmine,8,378.75
+david15,2024-01-28 11:09:19.398041,Completed,1805.68,"10330 Anderson Stream Suite 811
+North Christine, PA 07256",Bank Transfer,Berry Bliss,7,286.51
+marc16,2024-10-06 04:59:42.771072,Pending,865.06,"962 Bryan Valleys Suite 756
+Port Carlamouth, VT 77369",PayPal,Saffron Spark,4,362.71
+marc16,2024-10-06 04:59:42.771072,Pending,865.06,"962 Bryan Valleys Suite 756
+Port Carlamouth, VT 77369",PayPal,Wild Glow,6,368.38
+marc16,2024-10-06 04:59:42.771072,Pending,865.06,"962 Bryan Valleys Suite 756
+Port Carlamouth, VT 77369",PayPal,Herbal Ember,8,129.88
+david15,2024-08-22 18:38:34.340229,Cancelled,1837.63,"0876 Blackwell Vista
+South Eddie, SD 17874",Bank Transfer,Jasmine Gold,2,180.58
+njohnson,2024-01-12 01:14:05.582472,Completed,1809.6,"262 Faith Mission Apt. 225
+East Tracy, FL 86868",Credit Card,Berry Harmony,8,286.59
+njohnson,2024-01-12 01:14:05.582472,Completed,1809.6,"262 Faith Mission Apt. 225
+East Tracy, FL 86868",Credit Card,Citrus Spice,6,331.14
+njohnson,2024-01-12 01:14:05.582472,Completed,1809.6,"262 Faith Mission Apt. 225
+East Tracy, FL 86868",Credit Card,Golden Glow,5,134.28
+njohnson,2024-01-12 01:14:05.582472,Completed,1809.6,"262 Faith Mission Apt. 225
+East Tracy, FL 86868",Credit Card,Wild Jasmine,1,346.67
+brian90,2024-10-30 10:51:57.079458,Pending,1630.88,"29677 Mary Ford
+Tracyville, TX 03570",PayPal,Mint Harmony,6,72.58
+brian90,2024-10-30 10:51:57.079458,Pending,1630.88,"29677 Mary Ford
+Tracyville, TX 03570",PayPal,Cardamom Kiss,7,167.83
+brian90,2024-10-30 10:51:57.079458,Pending,1630.88,"29677 Mary Ford
+Tracyville, TX 03570",PayPal,Velvet Ember,1,462.41
+brian90,2024-10-30 10:51:57.079458,Pending,1630.88,"29677 Mary Ford
+Tracyville, TX 03570",PayPal,Cardamom Frost,3,249.11
+mprice,2024-10-22 01:02:12.552186,Pending,1859.01,"64944 David Viaduct Suite 385
+Jonathanview, HI 36441",Credit Card,Almond Harmony,6,416.47
+mprice,2024-10-22 01:02:12.552186,Pending,1859.01,"64944 David Viaduct Suite 385
+Jonathanview, HI 36441",Credit Card,Mystic Ember,7,152.36
+mprice,2024-10-22 01:02:12.552186,Pending,1859.01,"64944 David Viaduct Suite 385
+Jonathanview, HI 36441",Credit Card,Almond Glow,5,351.4
+mprice,2024-10-22 01:02:12.552186,Pending,1859.01,"64944 David Viaduct Suite 385
+Jonathanview, HI 36441",Credit Card,Velvet Jasmine,1,52.08
+ljones,2024-04-23 19:04:10.582181,Pending,1508.05,"930 Miranda Unions
+Samanthastad, OR 41366",Credit Card,Turmeric Sunset,7,393.49
+ljones,2024-04-23 19:04:10.582181,Pending,1508.05,"930 Miranda Unions
+Samanthastad, OR 41366",Credit Card,Berry Breeze,10,404.46
+ljones,2024-04-23 19:04:10.582181,Pending,1508.05,"930 Miranda Unions
+Samanthastad, OR 41366",Credit Card,Almond Harmony,5,467.54
+melissaryan,2024-11-18 15:47:50.023855,Completed,1763.47,"844 Jennifer Plaza Apt. 729
+South Robertchester, AK 82172",PayPal,Cinnamon Glow,4,336.11
+melissaryan,2024-11-18 15:47:50.023855,Completed,1763.47,"844 Jennifer Plaza Apt. 729
+South Robertchester, AK 82172",PayPal,Velvet Ember,6,76.25
+melissaryan,2024-11-18 15:47:50.023855,Completed,1763.47,"844 Jennifer Plaza Apt. 729
+South Robertchester, AK 82172",PayPal,Choco Chai,3,113.55
+john37,2024-02-13 12:11:04.828828,Pending,635.83,"0914 Joseph Stream
+Garciaborough, SC 31376",Credit Card,Sunset Glow,5,94.72
+kenneth72,2024-07-10 00:21:45.741850,Completed,1964.49,"530 Pitts Estate Apt. 379
+Mosesport, PA 00819",Bank Transfer,Velvet Rose,6,291.65
+garrett22,2024-06-16 18:33:20.604624,Completed,1636.18,"92646 Laura Groves
+West Steven, VI 20757",PayPal,Midnight Mocha,8,499.85
+garrett22,2024-06-16 18:33:20.604624,Completed,1636.18,"92646 Laura Groves
+West Steven, VI 20757",PayPal,Ruby Rooibos,8,382.35
+garrett22,2024-06-16 18:33:20.604624,Completed,1636.18,"92646 Laura Groves
+West Steven, VI 20757",PayPal,Honey Jasmine,8,426.59
+garrett22,2024-06-16 18:33:20.604624,Completed,1636.18,"92646 Laura Groves
+West Steven, VI 20757",PayPal,Cocoa Harmony,1,322.45
+wbarajas,2024-08-23 04:01:51.680858,Cancelled,1538.49,"503 Amy Mall
+East Natashahaven, GA 24196",Credit Card,Lavender Frost,5,130.91
+wbarajas,2024-08-23 04:01:51.680858,Cancelled,1538.49,"503 Amy Mall
+East Natashahaven, GA 24196",Credit Card,Herbal Spice,8,308.54
+wbarajas,2024-08-23 04:01:51.680858,Cancelled,1538.49,"503 Amy Mall
+East Natashahaven, GA 24196",Credit Card,Saffron Sun,8,17.46
+wbarajas,2024-08-23 04:01:51.680858,Cancelled,1538.49,"503 Amy Mall
+East Natashahaven, GA 24196",Credit Card,Persian Gold,8,351.2
+wbarajas,2024-08-23 04:01:51.680858,Cancelled,1538.49,"503 Amy Mall
+East Natashahaven, GA 24196",Credit Card,Velvet Matcha,4,452.23
+kevincoleman,2024-02-08 22:57:48.593422,Cancelled,1405.82,"9206 Levy Mission
+Garciaville, NV 80240",Credit Card,Saffron Sun,5,117.93
+kevincoleman,2024-02-08 22:57:48.593422,Cancelled,1405.82,"9206 Levy Mission
+Garciaville, NV 80240",Credit Card,Honey Frost,8,284.7
+kevincoleman,2024-02-08 22:57:48.593422,Cancelled,1405.82,"9206 Levy Mission
+Garciaville, NV 80240",Credit Card,Lavender Pearl,8,47.76
+mcdonaldjennifer,2024-01-03 19:57:18.707579,Pending,1206.37,"754 Owen Locks Suite 998
+Chenhaven, PR 82629",PayPal,Mint Whisper,9,369.1
+vjackson,2024-02-26 18:54:26.683703,Pending,192.92,"PSC 3004, Box 3523
+APO AE 03072",PayPal,Wild Spice,8,375.96
+vjackson,2024-02-26 18:54:26.683703,Pending,192.92,"PSC 3004, Box 3523
+APO AE 03072",PayPal,Wildberry Bliss,8,211.7
+vjackson,2024-02-26 18:54:26.683703,Pending,192.92,"PSC 3004, Box 3523
+APO AE 03072",PayPal,Ginger Spice,4,171.58
+vjackson,2024-02-26 18:54:26.683703,Pending,192.92,"PSC 3004, Box 3523
+APO AE 03072",PayPal,Spiced Amber,5,422.84
+pfitzgerald,2024-06-25 00:08:36.215394,Cancelled,504.28,"969 Jason Groves Suite 191
+Port Margaretside, UT 30572",Credit Card,Cinnamon Spice,3,356.68
+pfitzgerald,2024-06-25 00:08:36.215394,Cancelled,504.28,"969 Jason Groves Suite 191
+Port Margaretside, UT 30572",Credit Card,Cardamom Kiss,4,400.48
+pfitzgerald,2024-06-25 00:08:36.215394,Cancelled,504.28,"969 Jason Groves Suite 191
+Port Margaretside, UT 30572",Credit Card,Himalayan Frost,3,342.58
+pfitzgerald,2024-06-25 00:08:36.215394,Cancelled,504.28,"969 Jason Groves Suite 191
+Port Margaretside, UT 30572",Credit Card,Ginger Spice,2,315.65
+pfitzgerald,2024-06-25 00:08:36.215394,Cancelled,504.28,"969 Jason Groves Suite 191
+Port Margaretside, UT 30572",Credit Card,Ginger Glow,7,265.1
+gregoryedwards,2024-11-09 07:20:52.344896,Cancelled,299.68,"815 Kenneth Plaza Apt. 559
+East James, AL 10320",Credit Card,Moonlit Matcha,3,41.73
+gregoryedwards,2024-11-09 07:20:52.344896,Cancelled,299.68,"815 Kenneth Plaza Apt. 559
+East James, AL 10320",Credit Card,Ginger Spice,10,127.76
+gregoryedwards,2024-11-09 07:20:52.344896,Cancelled,299.68,"815 Kenneth Plaza Apt. 559
+East James, AL 10320",Credit Card,Cardamom Kiss,7,24.15
+shahtina,2024-02-14 06:57:16.290674,Pending,503.31,"202 Candice Mews Apt. 538
+Erikside, AS 86905",PayPal,Golden Jasmine,1,431.83
+shahtina,2024-02-14 06:57:16.290674,Pending,503.31,"202 Candice Mews Apt. 538
+Erikside, AS 86905",PayPal,Choco Chai,2,482.62
+shahtina,2024-02-14 06:57:16.290674,Pending,503.31,"202 Candice Mews Apt. 538
+Erikside, AS 86905",PayPal,Honeyberry Spice,7,192.58
+shahtina,2024-02-14 06:57:16.290674,Pending,503.31,"202 Candice Mews Apt. 538
+Erikside, AS 86905",PayPal,Almond Blossom,10,238.79
+shahtina,2024-02-14 06:57:16.290674,Pending,503.31,"202 Candice Mews Apt. 538
+Erikside, AS 86905",PayPal,Zesty Lemongrass,2,333.38
+erin28,2024-01-01 20:52:55.130159,Cancelled,721.03,"PSC 6237, Box 4120
+APO AA 11231",Bank Transfer,Mystic Ember,6,124.23
+erin28,2024-01-01 20:52:55.130159,Cancelled,721.03,"PSC 6237, Box 4120
+APO AA 11231",Bank Transfer,Cinnamon Spark,2,62.52
+erin28,2024-01-01 20:52:55.130159,Cancelled,721.03,"PSC 6237, Box 4120
+APO AA 11231",Bank Transfer,Wild Glow,5,231.9
+erin28,2024-01-01 20:52:55.130159,Cancelled,721.03,"PSC 6237, Box 4120
+APO AA 11231",Bank Transfer,Midnight Berry,9,92.04
+keithmason,2024-11-07 23:27:10.296047,Completed,1739.97,"55076 Bonnie Bridge Suite 228
+West Carla, ND 77629",PayPal,Almond Chai,1,216.02
+keithmason,2024-11-07 23:27:10.296047,Completed,1739.97,"55076 Bonnie Bridge Suite 228
+West Carla, ND 77629",PayPal,Cocoa Glow,9,443.03
+currycaleb,2024-05-31 19:49:25.764961,Pending,465.68,"0598 Baker Shores Suite 447
+Aprilbury, NJ 17900",Credit Card,Wild Zest,8,40.32
+steve04,2024-03-17 00:48:12.372746,Pending,376.59,"08066 Petersen Knolls Apt. 799
+North Cameron, NJ 09531",PayPal,Velvet Ember,3,447.09
+steve04,2024-03-17 00:48:12.372746,Pending,376.59,"08066 Petersen Knolls Apt. 799
+North Cameron, NJ 09531",PayPal,Honey Citrus,7,307.56
+steve04,2024-03-17 00:48:12.372746,Pending,376.59,"08066 Petersen Knolls Apt. 799
+North Cameron, NJ 09531",PayPal,Turmeric Sunset,7,334.32
+kramermary,2024-09-27 22:22:37.067733,Pending,1199.56,"0683 Brooks Glen
+West Shawnfurt, OR 11670",Bank Transfer,Mystic Ember,1,380.26
+kramermary,2024-09-27 22:22:37.067733,Pending,1199.56,"0683 Brooks Glen
+West Shawnfurt, OR 11670",Bank Transfer,Citrus Glow,3,172.53
+kramermary,2024-09-27 22:22:37.067733,Pending,1199.56,"0683 Brooks Glen
+West Shawnfurt, OR 11670",Bank Transfer,Ruby Spark,3,171.27
+kramermary,2024-09-27 22:22:37.067733,Pending,1199.56,"0683 Brooks Glen
+West Shawnfurt, OR 11670",Bank Transfer,Smoky Ember,1,450.37
+kramermary,2024-09-27 22:22:37.067733,Pending,1199.56,"0683 Brooks Glen
+West Shawnfurt, OR 11670",Bank Transfer,Golden Rooibos,6,484.08
+todd66,2024-01-21 07:18:12.349538,Completed,204.74,"510 Thomas Path Suite 124
+North Johnfort, MT 21122",Bank Transfer,Berry Frost,10,358.05
+todd66,2024-01-21 07:18:12.349538,Completed,204.74,"510 Thomas Path Suite 124
+North Johnfort, MT 21122",Bank Transfer,Berry Harmony,1,443.12
+christopherperkins,2024-09-21 01:02:01.874232,Cancelled,770.54,"986 Matthew Drive Apt. 922
+Sarahland, WV 51165",Bank Transfer,Zesty Spice,9,242.66
+christopherperkins,2024-09-21 01:02:01.874232,Cancelled,770.54,"986 Matthew Drive Apt. 922
+Sarahland, WV 51165",Bank Transfer,Golden Glow,1,68.67
+schultzlisa,2024-10-08 00:42:24.810937,Completed,1156.01,"85846 Huffman Wells Apt. 039
+Griffinstad, DE 03587",Credit Card,Sunset Jasmine,3,179.32
+schultzlisa,2024-10-08 00:42:24.810937,Completed,1156.01,"85846 Huffman Wells Apt. 039
+Griffinstad, DE 03587",Credit Card,Smoky Ember,7,40.28
+schultzlisa,2024-10-08 00:42:24.810937,Completed,1156.01,"85846 Huffman Wells Apt. 039
+Griffinstad, DE 03587",Credit Card,Golden Jasmine,6,400.18
+schultzlisa,2024-10-08 00:42:24.810937,Completed,1156.01,"85846 Huffman Wells Apt. 039
+Griffinstad, DE 03587",Credit Card,Smoky Ember Rose,5,485.54
+schultzlisa,2024-10-08 00:42:24.810937,Completed,1156.01,"85846 Huffman Wells Apt. 039
+Griffinstad, DE 03587",Credit Card,Wildberry Bliss,1,74.78
+qmoran,2024-03-20 12:08:44.509467,Pending,1289.05,"52004 Berry Ports
+New Robert, MT 79119",PayPal,Spiced Maple,8,414.78
+christinaweiss,2024-01-10 07:43:52.983982,Pending,187.85,"84217 Jessica Crossroad Apt. 027
+Port Juliefurt, RI 18292",PayPal,Mystic Frost,10,192.63
+christinaweiss,2024-01-10 07:43:52.983982,Pending,187.85,"84217 Jessica Crossroad Apt. 027
+Port Juliefurt, RI 18292",PayPal,Honey Gold,5,445.64
+christinaweiss,2024-01-10 07:43:52.983982,Pending,187.85,"84217 Jessica Crossroad Apt. 027
+Port Juliefurt, RI 18292",PayPal,Cinnamon Frost,1,254.95
+christinaweiss,2024-01-10 07:43:52.983982,Pending,187.85,"84217 Jessica Crossroad Apt. 027
+Port Juliefurt, RI 18292",PayPal,Wild Hibiscus,9,84.41
+christinaweiss,2024-01-10 07:43:52.983982,Pending,187.85,"84217 Jessica Crossroad Apt. 027
+Port Juliefurt, RI 18292",PayPal,Sunset Glow,5,399.66
+valerie75,2024-06-13 23:22:46.351405,Cancelled,268.43,"468 Campbell Ridges
+Lake Aaron, DC 14730",PayPal,Almond Spice,10,218.19
+valerie75,2024-06-13 23:22:46.351405,Cancelled,268.43,"468 Campbell Ridges
+Lake Aaron, DC 14730",PayPal,Lavender Breeze,9,488.23
+christopherdavid,2024-02-20 08:44:51.313012,Cancelled,1259.19,"7807 Shannon Circle Suite 659
+West Monica, NV 72787",Credit Card,Ruby Rooibos,6,154.5
+christopherdavid,2024-02-20 08:44:51.313012,Cancelled,1259.19,"7807 Shannon Circle Suite 659
+West Monica, NV 72787",Credit Card,Cocoa Kiss,3,155.59
+johnsonmichael,2024-05-05 22:54:42.619235,Completed,1909.2,"3502 Paula Loaf Suite 504
+Kristinfort, FL 49530",PayPal,Berry Glow,7,72.82
+johnsonmichael,2024-05-05 22:54:42.619235,Completed,1909.2,"3502 Paula Loaf Suite 504
+Kristinfort, FL 49530",PayPal,Mystic Chai,3,427.76
+dianamack,2024-11-12 04:52:35.008809,Pending,583.18,"70008 Sharon Throughway
+Haroldland, NE 22094",Bank Transfer,Saffron Sun,8,87.71
+dianamack,2024-11-12 04:52:35.008809,Pending,583.18,"70008 Sharon Throughway
+Haroldland, NE 22094",Bank Transfer,Midnight Mocha,2,293.39
+dianamack,2024-11-12 04:52:35.008809,Pending,583.18,"70008 Sharon Throughway
+Haroldland, NE 22094",Bank Transfer,Cinnamon Glow,3,352.26
+dianamack,2024-11-12 04:52:35.008809,Pending,583.18,"70008 Sharon Throughway
+Haroldland, NE 22094",Bank Transfer,Arctic Mint,9,59.83
+dianamack,2024-11-12 04:52:35.008809,Pending,583.18,"70008 Sharon Throughway
+Haroldland, NE 22094",Bank Transfer,Jasmine Spice,2,454.38
+justin48,2024-07-09 12:06:33.321433,Pending,1399.9,"81760 Peter Villages Suite 474
+East Erinbury, MD 31565",Credit Card,Ruby Rooibos,9,237.65
+kevincoleman,2024-12-01 20:01:44.077174,Pending,1107.76,"7687 Calvin Divide Suite 196
+South Katherine, ND 87178",Bank Transfer,Lavender Breeze,9,125.77
+kevincoleman,2024-12-01 20:01:44.077174,Pending,1107.76,"7687 Calvin Divide Suite 196
+South Katherine, ND 87178",Bank Transfer,Mint Harmony,1,497.69
+fhernandez,2024-05-30 06:11:25.980464,Pending,376.36,"98328 Garza Fort Apt. 691
+New Jonathanstad, IA 98155",Bank Transfer,Silk Jasmine,2,130.99
+fhernandez,2024-05-30 06:11:25.980464,Pending,376.36,"98328 Garza Fort Apt. 691
+New Jonathanstad, IA 98155",Bank Transfer,Chai Nirvana,2,271.44
+fhernandez,2024-05-30 06:11:25.980464,Pending,376.36,"98328 Garza Fort Apt. 691
+New Jonathanstad, IA 98155",Bank Transfer,Almond Bliss,7,66.48
+michael44,2024-03-29 01:51:34.076675,Cancelled,1492.8,"164 Erica Shoal Suite 551
+Antonioton, MS 57838",Credit Card,Berry Bliss,5,84.28
+michael44,2024-03-29 01:51:34.076675,Cancelled,1492.8,"164 Erica Shoal Suite 551
+Antonioton, MS 57838",Credit Card,Lavender Harmony,9,269.48
+justin48,2024-07-03 17:18:47.850207,Cancelled,1366.94,"19888 Tamara Shoal
+East Adam, PW 19836",Bank Transfer,Smoky Harvest,10,111.64
+justin48,2024-07-03 17:18:47.850207,Cancelled,1366.94,"19888 Tamara Shoal
+East Adam, PW 19836",Bank Transfer,Golden Frost,5,340.56
+justin48,2024-07-03 17:18:47.850207,Cancelled,1366.94,"19888 Tamara Shoal
+East Adam, PW 19836",Bank Transfer,Ruby Glow,8,248.13
+sydneyfry,2024-05-06 03:40:17.727035,Cancelled,1939.7,"21337 Reynolds Pines Suite 610
+Hensleytown, PW 13949",Bank Transfer,Cocoa Glow,1,353.11
+sydneyfry,2024-05-06 03:40:17.727035,Cancelled,1939.7,"21337 Reynolds Pines Suite 610
+Hensleytown, PW 13949",Bank Transfer,Turmeric Whisper,8,122.02
+pfitzgerald,2024-08-16 02:56:44.355718,Completed,1724.53,"57869 Cody Radial
+Olsonville, NV 64491",PayPal,Turmeric Frost,9,277.08
+pfitzgerald,2024-08-16 02:56:44.355718,Completed,1724.53,"57869 Cody Radial
+Olsonville, NV 64491",PayPal,Ginger Glow,10,68.05
+pfitzgerald,2024-08-16 02:56:44.355718,Completed,1724.53,"57869 Cody Radial
+Olsonville, NV 64491",PayPal,Himalayan Frost,6,414.96
+youngscott,2024-07-26 14:15:05.470442,Completed,436.52,"734 Fox Ruby Rooibos Apt. 223
+Boyleview, TN 87934",Bank Transfer,Lavender Breeze,4,44.19
+youngscott,2024-07-26 14:15:05.470442,Completed,436.52,"734 Fox Ruby Rooibos Apt. 223
+Boyleview, TN 87934",Bank Transfer,Mystic Pearl,9,406.02
+youngscott,2024-07-26 14:15:05.470442,Completed,436.52,"734 Fox Ruby Rooibos Apt. 223
+Boyleview, TN 87934",Bank Transfer,Smoky Spark,6,468.54
+youngscott,2024-07-26 14:15:05.470442,Completed,436.52,"734 Fox Ruby Rooibos Apt. 223
+Boyleview, TN 87934",Bank Transfer,Persian Gold,3,199.48
+bcurtis,2024-09-27 20:17:24.142272,Completed,1505.82,"520 Flores Islands
+Laurenburgh, NV 59167",Credit Card,Berry Breeze,6,494.0
+bcurtis,2024-09-27 20:17:24.142272,Completed,1505.82,"520 Flores Islands
+Laurenburgh, NV 59167",Credit Card,Cinnamon Glow,6,412.1
+fjones,2024-09-24 16:11:27.884796,Cancelled,1283.0,"52922 Miller Fords
+Lake Derek, AK 61713",PayPal,Berry Harmony,2,271.72
+fjones,2024-09-24 16:11:27.884796,Cancelled,1283.0,"52922 Miller Fords
+Lake Derek, AK 61713",PayPal,Almond Glow,10,113.75
+erin28,2024-07-11 13:44:36.555155,Pending,1176.93,"9205 Jorge Square
+New Kimberlyside, TN 84739",PayPal,Berry Bliss,10,80.1
+erin28,2024-07-11 13:44:36.555155,Pending,1176.93,"9205 Jorge Square
+New Kimberlyside, TN 84739",PayPal,Tropical Zest,1,250.96
+michael61,2024-09-03 16:02:53.650725,Cancelled,671.21,"166 Daniel Mountain
+East Annaton, WA 46913",PayPal,Berry Harmony,5,452.08
+michael61,2024-09-03 16:02:53.650725,Cancelled,671.21,"166 Daniel Mountain
+East Annaton, WA 46913",PayPal,Lemon Harmony,8,426.42
+michael61,2024-09-03 16:02:53.650725,Cancelled,671.21,"166 Daniel Mountain
+East Annaton, WA 46913",PayPal,Arabica Ember,10,314.91
+kgregory,2024-11-28 08:03:26.140437,Completed,966.11,"83195 Rodriguez Shoals
+Port Sherry, MD 85732",Bank Transfer,Arctic Mint,8,366.61
+andrewdavis,2024-02-15 16:44:58.027054,Cancelled,1320.39,"381 Hutchinson Junction Suite 046
+Higginschester, IL 97860",Credit Card,Turmeric Harmony,9,365.58
+andrewdavis,2024-02-15 16:44:58.027054,Cancelled,1320.39,"381 Hutchinson Junction Suite 046
+Higginschester, IL 97860",Credit Card,Mystic Citrus,4,93.23
+justin48,2024-04-24 01:01:17.169582,Pending,1360.18,"80372 Brown Corners
+Goodwinshire, UT 09902",Bank Transfer,Cocoa Glow,4,223.27
+justin48,2024-04-24 01:01:17.169582,Pending,1360.18,"80372 Brown Corners
+Goodwinshire, UT 09902",Bank Transfer,Darjeeling Dream,4,74.51
+justin48,2024-04-24 01:01:17.169582,Pending,1360.18,"80372 Brown Corners
+Goodwinshire, UT 09902",Bank Transfer,Berry Bliss,4,81.82
+justin48,2024-04-24 01:01:17.169582,Pending,1360.18,"80372 Brown Corners
+Goodwinshire, UT 09902",Bank Transfer,Silk Rose,5,244.44
+justin48,2024-04-24 01:01:17.169582,Pending,1360.18,"80372 Brown Corners
+Goodwinshire, UT 09902",Bank Transfer,Vanilla Spark,6,196.22
